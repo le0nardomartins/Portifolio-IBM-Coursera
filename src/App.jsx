@@ -3,9 +3,9 @@ import './App.css'
 
 function App() {
   const [recommendations, setRecommendations] = useState([
-    { id: 1, name: "João Silva", text: "Excelente desenvolvedor, muito focado em resultados. Sempre traz inovações para o time." },
-    { id: 2, name: "Maria Oliveira", text: "Ótima capacidade técnica e trabalho em equipe. Liderou projetos complexos com maestria." },
-    { id: 3, name: "Carlos Souza", text: "Sempre entrega código limpo e bem documentado. Um profissional exemplar no desenvolvimento." }
+    { id: 1, name: "John Smith", text: "Excellent developer, very focused on results. Always brings innovations to the team." },
+    { id: 2, name: "Maria Johnson", text: "Great technical skills and teamwork. Led complex projects with mastery." },
+    { id: 3, name: "Carlos Williams", text: "Always delivers clean and well-documented code. An exemplary professional in development." }
   ]);
 
   const [newName, setNewName] = useState("");
@@ -53,8 +53,8 @@ function App() {
           <div className="about-content">
             <img src="https://github.com/le0nardomartins.png" alt="Profile" className="profile-photo" />
             <div className="about-text">
-              <h3>Full Stack Developer</h3>
-              <p>Olá! Eu sou o Leonardo, um desenvolvedor apaixonado por tecnologia, focado em criar soluções digitais inovadoras e eficientes. Atualmente, dedico-me ao desenvolvimento de aplicações web modernas utilizando as melhores práticas do mercado.</p>
+              <h3>Back-End Developer</h3>
+              <p>Hello! I'm Leonardo, a developer passionate about technology, focused on creating innovative and efficient digital solutions. Currently, I dedicate myself to developing modern web applications using the best market practices.</p>
             </div>
           </div>
         </section>
@@ -92,18 +92,18 @@ function App() {
           <div className="projects-list">
             <div className="project-card">
               <h3>E-commerce API</h3>
-              <p>Uma API robusta para gerenciamento de lojas virtuais, com autenticação JWT e integração com banco de dados.</p>
+              <p>A robust API for managing online stores, with JWT authentication and database integration.</p>
               <strong>Node.js • Express • MongoDB</strong>
             </div>
             <div className="project-card">
-              <h3>Task Manager Pro</h3>
-              <p>Sistema completo de gerenciamento de tarefas com filtros, prioridades e notificações em tempo real.</p>
-              <strong>React • Firebase • Tailwind</strong>
+              <h3>RESTful Task Manager</h3>
+              <p>Complete task management system with filters, priorities, and real-time notifications.</p>
+              <strong>Node.js • Express • MySQL</strong>
             </div>
             <div className="project-card">
-              <h3>Global Solution FIAP</h3>
-              <p>Projeto acadêmico focado em hardware e software para automação e monitoramento de sistemas.</p>
-              <strong>C++ • ESP32 • Python</strong>
+              <h3>IoT Monitoring System</h3>
+              <p>Academic project focused on hardware and software for system automation and monitoring.</p>
+              <strong>Python • ESP32 • MQTT</strong>
             </div>
           </div>
         </section>
