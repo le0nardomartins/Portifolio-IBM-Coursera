@@ -43,4 +43,4 @@ The application will be available at the URL provided in the terminal (usually `
 
 ## License and Terms of Use
 
-This project is under a restricted license for academic purposes. Please refer to the [LICENSE.md](LICENSE.md) file for more details regarding the prohibition of commercial use and academic plagiarism.
+This project is under a restricted license for academic purposes. Please refer to the [LICENSE.md](LICENSE.txt) file for more details regarding the prohibition of commercial use and academic plagiarism.
