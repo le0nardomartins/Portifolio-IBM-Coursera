@@ -1,11 +1,38 @@
-# License and Terms of Use - IBM Coursera Portfolio
+PROJECT INFORMATION
+-------------------
+This project was developed as the final project for the IBM Back-End Development 
+course. This travel recommendation website was created to fulfill the course 
+requirements and demonstrate proficiency in web development using HTML, CSS, and 
+JavaScript.
 
-**STRICT PROHIBITION OF COMMERCIAL USE AND ACADEMIC PLAGIARISM**
+LICENSE TERMS
+-------------
+Permission is NOT granted to use, copy, modify, merge, publish, distribute,
+sublicense, or sell this software or its associated files.
 
-This code is provided for demonstration and study purposes only. The following restrictions apply:
+This project and its source code may NOT be used for:
+- Coursera final projects or assignments
+- Any academic submissions or coursework
+- Commercial purposes
+- Distribution or redistribution in any form
 
-1. **Commercial Use:** The use of this code, in whole or in part, for commercial purposes of any kind is strictly prohibited.
-2. **Academic Use by Third Parties:** **The primary prohibition of this project** is the use of this code by others for submission as their own work in courses, certifications, or evaluations (including, but not limited to, the IBM course on Coursera). Plagiarism is a serious violation of academic integrity.
-3. **Copyright:** All design rights and original textual content belong to the author.
+ACADEMIC INTEGRITY WARNING
+---------------------------
+This code is provided for reference and educational purposes only. Using this 
+code or any portion of it for academic submissions, including but not limited 
+to Coursera final projects, violates academic integrity policies and may result 
+in serious consequences including course failure or academic penalties.
 
-By viewing or downloading this code, you agree to these terms.
+If you are a student enrolled in the IBM Back-End Development course or any 
+similar course, you are expected to create your own original work. Copying, 
+modifying, or using this code as a basis for your project is strictly 
+prohibited and constitutes academic dishonesty.
+
+NO WARRANTY
+-----------
+This software is provided "as is", without warranty of any kind, express or 
+implied, including but not limited to the warranties of merchantability, 
+fitness for a particular purpose and noninfringement.
+
+No license is granted, implied, or otherwise. Use of the code is prohibited 
+without explicit written permission from the copyright holder.
